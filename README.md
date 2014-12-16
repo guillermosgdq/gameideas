@@ -1,4 +1,0 @@
-gameideas
-=========
-
-ideasdejuegos
